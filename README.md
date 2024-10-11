@@ -5,5 +5,5 @@ this repo is created for testing some commands in git and revision some
 
 edit
 
-edit in locsik
+edit in locsik  
 ** this is bold**
